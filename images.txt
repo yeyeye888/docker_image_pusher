@@ -1,3 +1,2 @@
 alpine
-python:alpine3.19
 chenaotian/cve-2022-0847
